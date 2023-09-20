@@ -1,6 +1,9 @@
+## Hi there, I'm Alan 👋
+
 ### About me
 
-- 🔭 Currently working as a developer in the financial system with 7 years of experience. My expertise lies in the fields of payment systems and e-wallets.
-- 🌱 Graduated from UESTC and reach master's degree of Communication and Digital Signal Processing.
-- 🧑‍💻 
-- 📫 How to reach me: yfilmen@gmail.com
+- 🧑‍💻 Payment system developer at Tencent. 7 years experience in development of financial system.
+- 📖 Graduated from UESTC and reach master's degree of Communication and Digital Signal Processing.
+- ⭐️ System design & Payment system & E-wallet.
+- ⚡️ Java / Python / JavaScript / C++.
+- 📫 Email me at: yfilmen@gmail.com
